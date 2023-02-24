@@ -1,0 +1,52 @@
+body {
+    background-image: url(image/sky.jpg);
+    background-repeat: no-repeat;
+    background-size: 40cm;
+}
+
+header {
+    background-color: transparent;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-size: auto;
+    color: aliceblue;
+   
+}
+
+
+nav {
+    background-color: transparent;
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-underline-offset: 1px;
+    margin: 30px;
+    
+    
+    
+}
+a:visited {
+    color: white
+}
+a:hover {
+    color: hotpink;
+    text-decoration:solid;
+}
+a:active {
+    color: aquamarine;
+}
+a {
+    text-decoration: none;
+    padding: 5px;
+    
+}
+
+div.gambar {
+    padding: 5px 500px;
+    margin: 5px;
+}
+
+
