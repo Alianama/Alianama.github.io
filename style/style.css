@@ -131,3 +131,20 @@ section img#mountains_front {
   font-size: 1em;
   color: #fff;
 }
+
+.skill {
+  position: relative;
+  padding: 100px;
+
+  background: #fff;
+}
+
+.skill h2 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #fff;
+}
+.skill p {
+  font-size: 1em;
+  color: #fff;
+}
