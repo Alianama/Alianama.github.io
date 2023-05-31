@@ -96,23 +96,37 @@ section img#mountains_front {
   z-index: 10;
 }
 #text {
+  text-decoration: none;
   position: absolute;
   color: #fff;
   white-space: nowrap;
   font-size: 4vw;
   z-index: 9;
+  transition: 0.3s;
+}
+
+#text:hover {
+  font-size: 2em;
+  transition: 0.3s;
 }
 
 #button {
   text-decoration: none;
   display: inline-block;
   padding: 8px 30px;
-  border-radius: 35px;
+  border-radius: 30px;
   background: #fff;
   color: #2b1055;
   font-size: 1.3em;
   z-index: 9;
   transform: translateY(100px);
+  transition: 0.3s;
+}
+
+#button:hover {
+  padding: 8px 40px;
+  font-size: 1.6em;
+  transition: 0.3s;
 }
 
 .about {
