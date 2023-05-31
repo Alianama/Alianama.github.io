@@ -135,8 +135,7 @@ section img#mountains_front {
 .skill {
   position: relative;
   padding: 100px;
-
-  background: #fff;
+  background-color: #1c0522;
 }
 
 .skill h2 {
