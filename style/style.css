@@ -50,12 +50,15 @@ header ul li a {
   padding: 6px 15px;
   color: #fff;
   border-radius: 20px;
+  transition: 0.5s;
 }
 
 header ul li a:hover,
 header ul li a:active {
   background: #fff;
   color: #2b1055;
+  padding: 8px 17px;
+  transition: 0.5s;
 }
 
 section {
